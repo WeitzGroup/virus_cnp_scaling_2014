@@ -1,0 +1,6 @@
+>gi|137566|sp|P03712.1|VCAD_LAMBD RecName: Full=Head decoration protein; AltName: Full=Major capsid protein D; AltName: Full=gpD
+MTSKETFTHYQPQGNSDPAHTATAPGGLSAKAPAMTPLMLDTSSRKLVAWDGTTDGAAVGILAVAADQTS
+TTLTFYKSGTFRYEDVLWPEAASDETKKRTAFAGTAISIV
+
+External link. Please review our privacy policy
+<http://www.nlm.nih.gov/privacy.html>.

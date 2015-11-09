@@ -1,0 +1,5 @@
+>gi|56405282|sp|P68660.1|VHTJ_LAMBD RecName: Full=Head-to-tail joining protein W; Short=gpW
+MTRQEELAAARAALHDLMTGKRVATVQKDGRRVEFTATSVSDLKKYIAELEVQTGMTQRRRGPAGFYV
+
+External link. Please review our privacy policy
+<http://www.nlm.nih.gov/privacy.html>.

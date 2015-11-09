@@ -1,0 +1,6 @@
+>gi|137575|sp|P03714.1|VCF2_LAMBD RecName: Full=Tail attachment protein; AltName: Full=Minor capsid protein FII
+MADFDNLFDAAIARADETIRGYMGTSATITSGEQSGAVIRGVFDDPENISYAGQGVRVEGSSPSLFVRTD
+EVRQLRRGDTLTIGEENFWVDRVSPDDGGSCHLWLGRGVPPAVNRRR
+
+External link. Please review our privacy policy
+<http://www.nlm.nih.gov/privacy.html>.
